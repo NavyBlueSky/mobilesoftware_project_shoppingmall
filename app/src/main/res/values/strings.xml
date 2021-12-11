@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyProject01</string>
+    <string name="csCall">고객센터 전화 번호 - 010-3327-5913</string>
+    <string name="csEmail">고객센터 이메일 - paranet312@dgu.ac.kr</string>
+    <string name="csMap">고객센터 위치 - 동국대학교 신공학관</string>
+    <string name="csCall2">전화 연결</string>
+    <string name="seemap">위치 보기</string>
+    <string name="csEmail2">이메일 보내기</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
